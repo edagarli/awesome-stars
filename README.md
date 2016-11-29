@@ -97,6 +97,9 @@
 
 ## Java 
 
+- [gumshoe](https://github.com/dcm-oss/gumshoe) - 
+- [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
+- [jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 - [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - IntelliJ IDEA/Android Studio 翻译插件，支持中英互译、单词朗读
 - [weixin-java-tools](https://github.com/wechat-group/weixin-java-tools) - 微信企业号和公众号（包括服务号和订阅号） Java SDK开发工具包
 - [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
